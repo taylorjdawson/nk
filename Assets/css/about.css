@@ -1,0 +1,25 @@
+#header {
+    background-image: url(../images/levi-saunders-41963.jpg);
+    padding-top: 23vh;
+}
+
+#content {
+    padding-top: 10vh;
+    padding-bottom: 20vh;
+    height: fit-content;
+
+}
+
+#content h1 {
+    font-size: 6vh;
+    color: #bbe1d8;
+    letter-spacing: 4px;
+}
+
+#content p {
+    font-size: 3vh;
+}
+
+#content-text {
+    padding-top: 5vh;
+}
